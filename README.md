@@ -13,7 +13,7 @@ prompt(), function, operasi aritmetika, percabangan, perulangan,
 manipulasi DOM, event listener, validasi form, serta penggunaan tombol
 untuk mengubah tampilan halaman.
 
-🛠️ Teknologi yang Digunakan
+Teknologi yang Digunakan
 
 HTML
 
@@ -25,7 +25,7 @@ Visual Studio Code
 
 Browser
 
-▶️ Cara Menjalankan
+Cara Menjalankan
 
 Clone atau download repository ini.
 
@@ -59,7 +59,7 @@ Materi
 <img width="904" height="416" alt="Tangkapan Layar 2026-10-25 pukul 07 09 38" src="https://github.com/user-attachments/assets/c17f5db9-76ee-4e76-8800-8df4bdb2cd75" />
 
 6 Menentukan bilangan genap atau ganjil
-<img width="605" height="372" alt="Tangkapan Layar 2026-10-25 pukul 07 20 54" src="https://github.com/user-attachments/assets/8f0fb048-3d6f-4bf7-bc03-86a6894d0413" />
+<img width="640" height="183" alt="Tangkapan Layar 2026-10-25 pukul 08 59 32" src="https://github.com/user-attachments/assets/20fd5c76-e3a9-4a33-9b38-d6158c2c7285" />
 
 7 Mengubah warna latar belakang
 <img width="390" height="219" alt="Tangkapan Layar 2026-10-25 pukul 07 21 41" src="https://github.com/user-attachments/assets/598bb0b3-0387-4f11-86be-f9a2740de219" />
