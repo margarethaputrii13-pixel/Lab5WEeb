@@ -44,24 +44,31 @@ Buka Developer Tools dengan menekan F12 untuk melihat hasil pada Console.
 Materi
 
 1 Menampilkan output Hello World
+
 <img width="1459" height="479" alt="Tangkapan Layar 2026-10-24 pukul 20 56 25" src="https://github.com/user-attachments/assets/bd59a012-b0e9-436f-930e-6e83eec23419" />
 
 2 Menggunakan alert dan prompt
+
 <img width="1461" height="389" alt="Tangkapan Layar 2026-10-24 pukul 20 58 13" src="https://github.com/user-attachments/assets/0cae9872-c738-4ef9-9ad2-6a730355704d" />
 
 3 Fungsi dan operasi aritmatika
+
 <img width="1443" height="401" alt="Tangkapan Layar 2026-10-24 pukul 21 04 28" src="https://github.com/user-attachments/assets/9c7f900d-3424-4d20-b720-bb0ff1766650" />
 
 4 Percabangan if/else untuk validasi nilai
+
 <img width="1460" height="353" alt="Tangkapan Layar 2026-10-24 pukul 21 04 54" src="https://github.com/user-attachments/assets/ef0c12bf-5a8e-4ec2-8878-8315bf7d6a0a" />
 
 5 Percabangan switch
-<img width="904" height="416" alt="Tangkapan Layar 2026-10-25 pukul 07 09 38" src="https://github.com/user-attachments/assets/c17f5db9-76ee-4e76-8800-8df4bdb2cd75" />
+
+<img width="445" height="127" alt="Tangkapan Layar 2026-10-25 pukul 09 03 16" src="https://github.com/user-attachments/assets/64d77dba-59b2-48ac-a452-12e8722a4553" />
 
 6 Menentukan bilangan genap atau ganjil
+
 <img width="640" height="183" alt="Tangkapan Layar 2026-10-25 pukul 08 59 32" src="https://github.com/user-attachments/assets/20fd5c76-e3a9-4a33-9b38-d6158c2c7285" />
 
 7 Mengubah warna latar belakang
+
 <img width="390" height="219" alt="Tangkapan Layar 2026-10-25 pukul 07 21 41" src="https://github.com/user-attachments/assets/598bb0b3-0387-4f11-86be-f9a2740de219" />
 
 8 Menghitung total harga menu menggunakan checkbox
